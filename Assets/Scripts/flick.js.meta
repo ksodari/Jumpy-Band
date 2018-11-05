@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 46ca0dd786582eb46a20b2b16071e0ce
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bandPrefab: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - enemyObject: {instanceID: 0}
+  - sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
